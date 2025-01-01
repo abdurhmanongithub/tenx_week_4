@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+prophet
+tensorflow
+flask
+fastapi
+pytest
+dvc
+mlflow
+scipy
+jupyter
